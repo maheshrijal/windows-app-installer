@@ -7,7 +7,7 @@
 
 # How to run?
 
-## Modify the list of packages in the [applist](../../ps-winget-pkg-installer/applist) file. Browse a list of winget packages at [winstall.app](https://winstall.app/) & [winget.run](https://winget.run/)
+## Modify the list of packages in the [applist](https://github.com/Maheshrjl/ps-winget-pkg-installer/blob/main/applist) file. Browse a list of winget packages at [winstall.app](https://winstall.app/) & [winget.run](https://winget.run/)
 
 #
 
