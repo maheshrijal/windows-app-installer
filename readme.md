@@ -20,4 +20,9 @@
 .\install-apps.ps1
 ```
 
+## Run without downloading the script (enhance branch)
+```
+iwr -useb https://raw.githubusercontent.com/maheshrjl/windows-package-installer/main/install.ps1 | iex
+```
+
 ### Modify the list of packages in the [applist](https://github.com/Maheshrjl/ps-winget-pkg-installer/blob/main/applist) file. Browse a list of winget packages at [winstall.app](https://winstall.app/) & [winget.run](https://winget.run/)
