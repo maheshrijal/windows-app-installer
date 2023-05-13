@@ -1,7 +1,7 @@
 #Script to install through packages in applist
 
 [string]$dir = Get-Location
-$filename = "applist.txt"
+$filename = "applist"
 
 $applist = Get-Content -Path "$dir\ps-winget-pkg-installer\$filename"
 
