@@ -20,7 +20,7 @@
 .\install-apps.ps1
 ```
 
-## Run without downloading the script (enhance branch)
+## Run without downloading the script ⚠
 ```
 iwr -useb https://raw.githubusercontent.com/maheshrjl/windows-package-installer/main/install.ps1 | iex
 ```
