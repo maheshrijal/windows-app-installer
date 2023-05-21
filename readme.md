@@ -26,5 +26,5 @@
 
 ## Run without downloading the script from [applist](https://github.com/maheshrjl/windows-package-installer/blob/main/applist) ⚠
 ```
-iwr -useb https://raw.githubusercontent.com/maheshrjl/windows-package-installer/main/install.ps1 | iex
+iwr -useb https://maheshrjl.me/wininstall | iex
 ```
