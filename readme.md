@@ -16,15 +16,15 @@
 
 ### Run with (Remote) App List Path
 ```
-.\install.ps1 -applist 'https://raw.githubusercontent.com/maheshrijal/windows-package-installer/main/applist'
+.\install.ps1 -applist 'https://raw.githubusercontent.com/maheshrijal/windows-app-installer/main/applist'
 ```
 
-## Run with (Default) App List picked from [applist](https://github.com/maheshrijal/windows-package-installer/blob/main/applist)  ⚠
+## Run with (Default) App List picked from [applist](https://raw.githubusercontent.com/maheshrijal/windows-app-installer/main/applist)  ⚠
 ```
 .\install-apps.ps1
 ```
 
-## Run without downloading the script from [applist](https://github.com/maheshrijal/windows-package-installer/blob/main/applist) ⚠
+## Run without downloading the script from [applist](https://raw.githubusercontent.com/maheshrijal/windows-app-installer/main/applist) ⚠
 
 ```
 iwr -useb https://maheshrijal.com/wininstall | iex
