@@ -1,7 +1,6 @@
 Discord.Discord
 WhatsApp.WhatsApp
 Mozilla.Firefox
-Notion.Notion
 Streetwriters.Notesnook
 Termius.Termius
 7zip.7zip
@@ -10,8 +9,16 @@ Microsoft.WindowsTerminal
 Postman.Postman
 Valve.Steam
 VideoLAN.VLC
-VivaldiTechnologies.Vivaldi
-OpenWhisperSystems.Signal.Beta
+Vivaldi.Vivaldi
+OpenWhisperSystems.Signal
 qBittorrent.qBittorrent
 Microsoft.VisualStudioCode
 Microsoft.PowerToys
+SlackTechnologies.Slack
+HTTPie.HTTPie
+SumatraPDF.SumatraPDF
+Spotify.Spotify
+Proton.ProtonVPN
+Mozilla.Thunderbird
+IrfanSkiljan.IrfanView
+DuckDuckGo.DesktopBrowser

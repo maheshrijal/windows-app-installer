@@ -1,5 +1,5 @@
 Param(
-    [string]$applist = "https://raw.githubusercontent.com/maheshrjl/windows-package-installer/main/applist"
+    [string]$applist = "https://raw.githubusercontent.com/maheshrijal/windows-package-installer/main/applist"
 )
 
 if ($applist -like "file:*") {
